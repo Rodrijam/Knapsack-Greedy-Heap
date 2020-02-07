@@ -1,5 +1,7 @@
 Project created by James Rodriguez and Jason Hubbs
 
+This program compares the efficiencies of solving the knapsack problem with the greedy algorithm versus using heaps.
+
 To run this program:
 	1) Compile the program using 'make'
 	2) run the executable './knapsack.x' with 1 arguments: 'file#'
